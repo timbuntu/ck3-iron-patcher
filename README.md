@@ -1,6 +1,6 @@
 # ck3-iron-patcher
 
-Patches CK3 Ironman saves to be able to be hosted in multiplayer.
+Patches CK3 Ironman saves to allow them to be hosted in multiplayer.
 
 It does so by changing a byte in the savegame at a specific position, so that the savegame browser in CK3 thinks it isn't in Ironman mode, while it actually is.
 This allows for Ironman games to be hosted in multiplayer.
