@@ -5,6 +5,10 @@ Patches CK3 Ironman saves to be able to be hosted in multiplayer.
 It does so by changing a byte in the savegame at a specific position, so that the savegame browser in CK3 thinks it isn't in Ironman mode, while it actually is.
 This allows for Ironman games to be hosted in multiplayer.
 
+## Download
+
+You can download Linux and Windows binaries from [the repositories releases page.](https://github.com/timbuntu/ck3-iron-patcher/releases)
+
 ## Compiling
 
 Compile with the c compiler of your choice. There aren't any dependencies other than the c standard library.
