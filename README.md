@@ -7,7 +7,7 @@ This allows for Ironman games to be hosted in multiplayer.
 
 ## Download
 
-You can download a Linux binary and a Windows mingw build from [the repositories releases page.](https://github.com/timbuntu/ck3-iron-patcher/releases)
+You can download a Linux binary and a Windows mingw build (that doesn't seem to work on Win10 apparently) from [the repositories releases page.](https://github.com/timbuntu/ck3-iron-patcher/releases)
 
 ## Compiling
 
